@@ -549,6 +549,7 @@ export const categories: Category[] = [
             "clicker",
             "plctfarmer",
             "mystwyrld",
+            "plgame",
             "animator",
             "mapexplorer",
             "masc",
