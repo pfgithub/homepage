@@ -199,6 +199,23 @@ export const projects = projectsList({
             url: "https://lfs.pfg.pw/site/mystwyrld/",
         },
     },
+    plgame: {
+        img: [653, 423, "/icons/plgame.png"],
+        title: "plgame",
+        body: [
+            "Game where you write an interpreter for an unknown programming language in Javascript.",
+        ],
+        technologies: ["javascript", "tailwind"],
+        github: {
+            repo: "pfgithub/plgame",
+            branch: "main",
+            file: "README.md",
+        },
+        site: {
+            kind: "demo",
+            url: "https://pfg.pw/plgame",
+        },
+    },
     mapexplorer: {
         img: [867, 490, "/icons/mapexplorer.png", {pixel: true}],
         title: "Mapexplorer",
