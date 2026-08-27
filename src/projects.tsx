@@ -525,27 +525,12 @@ export const projects = projectsList({
 
 export const categories: Category[] = [
     {
-        title: "Current Projects",
-        description: ["Large projects I'm working on right now"],
+        title: "Projects",
+        description: [],
         projects: [
             "interpunct_bot",
             "threadreader",
-        ],
-    },
-    {
-        title: "Past Projects",
-        description: ["Large projects I no longer use or maintain"],
-        projects: [
             "scpl",
-        ],
-    },
-    {
-        title: "One-offs",
-        description: [
-            "Smaller projects I worked on at some point in the past and may or may not still use ",
-            "or maintain.",
-        ],
-        projects: [
             "clicker",
             "plctfarmer",
             "mystwyrld",
